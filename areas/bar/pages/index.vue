@@ -1,8 +1,9 @@
 <template>
   <section>
-    <h3>Admin</h3>
+    <h3>Bar index</h3>
     <output>
       <PageInfo />
+      <StoreValue path="bar"/>
     </output>
     <section>
       <h3>Pages</h3>

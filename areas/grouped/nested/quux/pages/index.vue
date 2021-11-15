@@ -1,8 +1,10 @@
 <template>
   <section>
-    <h3>Admin</h3>
+    <h3>Quux index</h3>
     <output>
       <PageInfo />
+      <StoreValue path="nested/quux"/>
+      <StoreValue path="nested/quux/test"/>
     </output>
     <section>
       <h3>Pages</h3>

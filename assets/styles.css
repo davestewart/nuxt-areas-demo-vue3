@@ -10,6 +10,7 @@ body {
   height: 100vh;
   width: 100%;
   padding: 1em;
+  margin: 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -97,7 +98,7 @@ a.nuxt-link-exact-active.nuxt-link-active {
 }
 
 pre {
-  font-size: .75rem;
+  font-size: .7rem;
 }
 
 .small {

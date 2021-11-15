@@ -1,9 +1,9 @@
 <template>
   <section>
-    <h3>View user</h3>
+    <h3>Baz Users</h3>
     <output>
       <PageInfo />
-      <RouteParams/>
     </output>
+    <nuxt-child></nuxt-child>
   </section>
 </template>

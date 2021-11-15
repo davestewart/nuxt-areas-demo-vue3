@@ -1,5 +1,5 @@
 export function state () {
   return {
-    value: 8,
+    value: 4,
   }
 }
