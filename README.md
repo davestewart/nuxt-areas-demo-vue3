@@ -3,7 +3,7 @@
 > Demo project to showcase Nuxt Areas functionality
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davestewart/nuxt-areas-demo/master/static/nuxt-areas-demo.png" alt="Nuxt Areas">
+  <img src="https://raw.githubusercontent.com/davestewart/nuxt-areas-demo-vue3/master/public/nuxt-areas-demo.png" alt="Nuxt Areas Demo">
 </p>
 
 ## Overview
